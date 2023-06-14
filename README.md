@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ivo</h1>
 <h3 align="center">A Computer Science student at the University of Minho</h3>
 
+<div align="center">
+<img src="https://github.com/icsousa/icsousa/assets/115634463/c32d94dd-cda7-45b3-8285-a713f2ba3f75" width="150px" />
+</div>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icsousa&label=Profile%20views&color=0e75b6&style=flat" alt="icsousa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ivoocks" target="blank"><img src="https://img.shields.io/twitter/follow/ivoocks?logo=twitter&style=for-the-badge" alt="ivoocks" /></a> </p>
