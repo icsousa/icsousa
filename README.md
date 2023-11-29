@@ -1,11 +1,9 @@
-<h3 align="center">Hi, I'm Ivo</h3>
-<h5 align="center">A Computer Science student at the University of Minho</h5>
-
+## Introduction
 <div align="center">
-<img src="https://github.com/icsousa/icsousa/assets/115634463/eecb4f84-6939-4a47-a05d-16df7a6c0468" width="125px" />
-</div>
+<a href="https://github.com/icsousa"> <img src= "https://github.com/icsousa/icsousa/assets/115634463/758691a6-89fc-415a-9757-3fbe97a2b641" width="200px" /> </a>
+<p align="center"> A Computer Science student at the University of Minho </p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=icsousa&label=Profile%20views&color=0e75b6&style=flat" alt="icsousa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=icsousa&label=Profile%20views&color=0e75b6&style=flat" alt="icsousa" /> </div>
 
 ## What I'm Doing
 - 🌱 I’m currently learning **C and Haskell**
