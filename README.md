@@ -11,7 +11,7 @@
  <img src="https://komarev.com/ghpvc/?username=icsousa&&style=for-the-badge&color=blue" alt="icsousa" /> </div>
 
 ## What I'm Doing
-- 🌱 I’m currently learning **C and Haskell**
+- 🌱 I’m currently learning *C* and *Haskell*
 
 ## Languages and Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=c,haskell,vscode,git,matlab"> </a> </p>
