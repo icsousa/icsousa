@@ -14,6 +14,6 @@
 - 🌱 I’m currently learning *C* and *Haskell*
 
 ## Languages and Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=c,haskell,linux,vscode,git,github,matlab"> </a> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,haskell,linux,vscode,git,github,matlab,ps,discord"> </a> </p>
 
 
