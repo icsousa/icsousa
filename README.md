@@ -11,9 +11,10 @@
  <img src="https://komarev.com/ghpvc/?username=icsousa&&style=for-the-badge&color=blue" alt="icsousa" /> </div>
 
 ## What I'm Doing
-- I’m currently learning *C* and *Haskell*
+- I'm currently learning *C* and *Haskell* at university;
+- I'm working on a side project that involves *HTML*, *CSS* and *JavaScript*;
 
 ## Languages and Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=c,haskell,html,css,linux,vscode,git,github,matlab,ps"> </a> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,haskell,html,css,javascript,linux,vscode,git,github,matlab,ps"> </a> </p>
 
 
