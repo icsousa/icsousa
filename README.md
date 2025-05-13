@@ -11,8 +11,7 @@
  <img src="https://komarev.com/ghpvc/?username=icsousa&&style=for-the-badge&color=blue" alt="icsousa" /> </div>
 
 ## What I'm Doing
-- I'm currently learning *C* and *Java* at university;
-- I'm working on a side project that involves *HTML*, *CSS* and *JavaScript*;
+- I'm currently learning *C*, *Java* and *Python* at university;
 
 ## Languages and Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=c,haskell,html,css,javascript,matlab,java,mysql,linux,vscode,git,github,ps"> </a> </p>
