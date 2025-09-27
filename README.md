@@ -6,12 +6,10 @@
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJZXhHHSkVzgDcHMjFNrSNlbLVgmGJpKWpLsLlPRGsVBtwdPNwcnCcGGLbkmlvfvQsGXTML" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://api.whatsapp.com/send?phone=351913071038&text=hi!" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://instagram.com/ivoocks" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/ivoocks" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://open.spotify.com/user/31ieygjysp6mcstobxgbm7nwbh7e" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
  <img src="https://komarev.com/ghpvc/?username=icsousa&&style=for-the-badge&color=blue" alt="icsousa" /> </div>
 
 ## What I'm Doing
-- I'm currently learning *C*, *Java* and *Python* at university;
+- I'm currently in the final year of my degree.
 
 ## Languages and Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=c,haskell,html,css,javascript,matlab,java,mysql,python,linux,vscode,git,github"> </a> </p>
