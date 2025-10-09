@@ -1,5 +1,4 @@
-## 👋 Introduction
-### Hey there! I'm Ivo Sousa 👨‍💻 
+# 👨‍💻 Ivo Sousa
 <p>🎓 Computer Science student at <b>University of Minho</b></p><a href="mailto:ivo.sousa@ua.pt" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://api.whatsapp.com/send?phone=351913071038&text=Hi%20Ivo!" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> <img src="https://komarev.com/ghpvc/?username=icsousa&style=for-the-badge&color=blue" alt="Profile views" />
 
 ## 🚀 What I'm Doing
@@ -11,3 +10,6 @@
 
 ## 💬 Want to connect?
 Feel free to reach out through any of the links above — I’m always open to interesting discussions and collaborations!
+
+## 📊 Stats
+![icsousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=icsousa&show_icons=true&theme=dark)
