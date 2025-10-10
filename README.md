@@ -2,8 +2,9 @@
 <p>🎓 Computer Science student at <b>University of Minho</b></p><a href="mailto:ivoo.c.sousa@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://api.whatsapp.com/send?phone=351913071038&text=Hi%20Ivo!" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> <img src="https://komarev.com/ghpvc/?username=icsousa&style=for-the-badge&color=blue" alt="Profile views" />
 
 ## 🚀 What I'm Doing
-- Currently in the final year of my degree.
+- Currently in the final year of my degree
 - Exploring new technologies and improving my coding skills
+- Finishing **`MoneyCount`** project
 
 ## 🛠️ Languages
 <p> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
