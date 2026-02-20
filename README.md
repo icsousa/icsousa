@@ -22,12 +22,13 @@
 </p>
 
 ## 🧩 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icsousa&repo=bud&theme=dark)](https://github.com/icsousa/BUD)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icsousa&repo=moneycount&theme=dark)](https://github.com/icsousa/MoneyCount)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=icsousa&repo=BUD&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=icsousa&repo=MoneyCount&theme=dark)
 
 
 ## 💬 Want to connect?
 Feel free to reach out through any of the links above — I’m always open to interesting discussions and collaborations!
 
 ## 📊 Stats
-![icsousa's GitHub stats](https://github-readme-stats.vercel.app/api?username=icsousa&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=icsousa&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=icsousa&theme=dark)
