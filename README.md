@@ -1,8 +1,7 @@
-# 👨‍💻 Ivo Sousa
-<p>🎓 Computer Science student at <b>University of Minho</b></p><a href="www.linkedin.com/in/icsousa" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:ivoo.c.sousa@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://api.whatsapp.com/send?phone=351913071038&text=Hi%20Ivo!" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> <img src="https://komarev.com/ghpvc/?username=icsousa&style=for-the-badge&color=blue" alt="Profile views" />
+# `👨‍💻 Ivo Sousa`
+<p>🎓 Bachelor's Degree in Computer Science, <b>University of Minho</b>.</p><a href="www.linkedin.com/in/icsousa" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:ivoo.c.sousa@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://api.whatsapp.com/send?phone=351913071038&text=Hi%20Ivo!" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> <img src="https://komarev.com/ghpvc/?username=icsousa&style=for-the-badge&color=blue" alt="Profile views" />
 
 ## 🚀 What I'm Doing
-- Currently in the final year of my degree
 - Exploring new technologies and improving my coding skills
 
 ## 🛠️ Languages
