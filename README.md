@@ -21,7 +21,7 @@
 </p>
 
 ## 🧩 Projects
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=icsousa&repo=BUD&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=icsousa&repo=r6-killfeed&theme=dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=icsousa&repo=MoneyCount&theme=dark)
 
 
